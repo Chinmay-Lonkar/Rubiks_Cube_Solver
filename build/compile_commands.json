@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/codes/Projects/RubiksCubeSolver/build",
+  "command": "D:\\mingw\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\RubiksCubeSolver.dir\\main.cpp.obj -c D:\\codes\\Projects\\RubiksCubeSolver\\main.cpp",
+  "file": "D:/codes/Projects/RubiksCubeSolver/main.cpp",
+  "output": "CMakeFiles/RubiksCubeSolver.dir/main.cpp.obj"
+}
+]

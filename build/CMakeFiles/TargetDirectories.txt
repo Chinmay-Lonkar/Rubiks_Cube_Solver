@@ -1,0 +1,3 @@
+D:/codes/Projects/RubiksCubeSolver/build/CMakeFiles/RubiksCubeSolver.dir
+D:/codes/Projects/RubiksCubeSolver/build/CMakeFiles/edit_cache.dir
+D:/codes/Projects/RubiksCubeSolver/build/CMakeFiles/rebuild_cache.dir
